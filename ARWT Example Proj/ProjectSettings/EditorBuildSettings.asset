@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene - AR Space Battles 2.unity
+    guid: 4c122c22ed2def345bc6ece88b350079
   m_configObjects: {}
